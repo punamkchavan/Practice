@@ -7,3 +7,5 @@ fourth bug fixed
 fifth bug fixed
 
 2025 comming
+
+anothr fix msg for red mode
